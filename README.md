@@ -8,8 +8,8 @@ Programa que genera un Password de 12 caracteres aleatorios utilizando la librer
 
 #### Links de Interés
 [Documentación del módulo Random de Python](https://docs.python.org/3/library/random.html)
-[Documentación del módulo tkinter de Python] (https://docs.python.org/es/3/library/tkinter.html)
-[Documentación del módulo String de Python] (https://docs.python.org/es/3/library/string.html)
+[Documentación del módulo tkinter de Python](https://docs.python.org/es/3/library/tkinter.html)
+[Documentación del módulo String de Python](https://docs.python.org/es/3/library/string.html)
 
 ----------
 
